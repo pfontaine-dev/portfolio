@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: blueviolet;
+}
+
+header{
+    background-color: darkslateblue;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+nav{
+    background-color: indigo;
+    padding: 10px;
+}
